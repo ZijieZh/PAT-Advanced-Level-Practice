@@ -12,3 +12,5 @@ Print in a line the smallest positive integer that is missing from the input lis
   5 -25 9 6 1 3 4 2 5 17
 ## Sample Output:
   7
+ConsoleApplication5.cpp has some issues which I am confused of...
+1144correct.cpp refered to other is good for solving this problem.
