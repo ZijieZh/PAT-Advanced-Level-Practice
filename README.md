@@ -8,7 +8,7 @@ Each input file contains one test case. For each case, the first line gives a po
 ## Output Specification:
 Print in a line the smallest positive integer that is missing from the input list.
 ## Sample Input:
-10
-5 -25 9 6 1 3 4 2 5 17
+  10
+  5 -25 9 6 1 3 4 2 5 17
 ## Sample Output:
-7
+  7
